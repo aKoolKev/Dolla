@@ -1,0 +1,25 @@
+# TO-DO!
+
+### 5/20/25
+- __Home page__
+  + Add footer to home layout page
+  + Get Current Snapshot working
+
+- __Connect to Supabase__
+
+- __Connect to Tailwind__
+  + Apply Tailwind after creating skeleton using raw HTML, CSS, & JS
+
+- __Spending page__
+  + Create button handler: either modal or page to add new spendings
+  + Create filter button: select month of interest
+  + Show selected month of interests log of spendings 
+
+- __Earning page__
+  + Create button handler: either modal or page to add new earnings
+  + Create filter button: select month of interest
+  + Show selected month of interests log of earnings
+
+- __Authentication page__
+
+- __Could create layout for Spending and Earning page for optimization__
